@@ -57,10 +57,12 @@ We are **explorers at the frontier** of technology, philosophy, and enterpriseâ€
 
 ### ðŸ”— **Quick Access to Flagship Projects**
 
-[![EchoForge](https://img.shields.io/badge/EchoForge-Framework-blue?style=flat-square&logo=github)](https://github.com/codessian/echoforge)
-[![GitGuard](https://img.shields.io/badge/GitGuard-Security-red?style=flat-square&logo=github)](https://github.com/codessian/gitguard)
-[![DocFoundry](https://img.shields.io/badge/DocFoundry-Docs-green?style=flat-square&logo=github)](https://github.com/codessian/docfoundry)
-[![Mnemos](https://img.shields.io/badge/Mnemos-Memory-orange?style=flat-square&logo=github)](https://github.com/codessian/mnemos)
+[![EchoForge badge](https://img.shields.io/badge/EchoForge-Framework-blue?style=flat-square&logo=github)](https://github.com/codessian/echoforge)
+[![GitGuard badge](https://img.shields.io/badge/GitGuard-Security-red?style=flat-square&logo=github)](https://github.com/codessian/gitguard)
+[![DocFoundry badge](https://img.shields.io/badge/DocFoundry-Docs-green?style=flat-square&logo=github)](https://github.com/codessian/docfoundry)
+[![Mnemos badge](https://img.shields.io/badge/Mnemos-Memory-orange?style=flat-square&logo=github)](https://github.com/codessian/mnemos)
+[![EcoMate badge](https://img.shields.io/badge/EcoMate-Sustainability-brightgreen?style=flat-square&logo=github)](https://github.com/codessian/ecomate)
+[![PondSkipper badge](https://img.shields.io/badge/PondSkipper-Ventures-lightgrey?style=flat-square&logo=github)](https://github.com/codessian/pondskipper)
 
 </div>
 
